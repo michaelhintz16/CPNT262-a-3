@@ -5,8 +5,7 @@ description: "White xbox Controller",
 width: 400,
 height: 400,
 pathURL: "images/xbox.jpg",
-linkURL: "https://notrealimages/xboxmichael.jpg",
-/*linkURL: "https://en.wikipedia.organism/wiki/Nintendo",*/
+linkURL: "https://en.wikipedia.org/wiki/Xbox",
 credit: "@lppoitras",
 creditURL: "https://unsplash.com/@lppoitras",
 }, {
@@ -80,7 +79,7 @@ description: "N54 controller ",
 width: 400,
 height: 400,
 pathURL: " images/N64.jpg",
-linkURL: "https://en.wikipedia.org/wiki/Bald_eagle",
+linkURL: "https://en.wikipedia.org/wiki/Nintendo_64",
 credit: "@jawfox_photography",
 creditURL: "https://unsplash.com/@jawfox_photography",
 } ];
