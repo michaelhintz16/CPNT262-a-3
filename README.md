@@ -9,7 +9,7 @@
 
 # ATTRIBUTES
 * [404 page image]( https://giphy.com/gifs/starwars-movie-star-wars-3ornjSL2sBcPflIDiU)
-* [Tony Grimes samples code] 
+* [Tony Grimes samples code](https://gist.github.com/acidtone/8a188adf6e85a913f7f88c4f6cd53677#file-server-js)
 * Norville- helped with Getting my 404 page runing 
 
 
