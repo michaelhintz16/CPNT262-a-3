@@ -7,5 +7,11 @@
 
 
 
+# ATTRIBUTES
+* [Tony Grimes samples code] 
+* Norville- helped with Getting my 404 page runing 
+
+
+
 
 
