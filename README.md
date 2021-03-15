@@ -1,5 +1,5 @@
 # CPNT262-a-3
-i used a localhost3001 cause for some reason I Get an aerror that says i have a 3000 in use alreeady 
+i used a localhost3001, For some reason I Get an error that says i have a 3000 in use already 
 
 ## links
 
